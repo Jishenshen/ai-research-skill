@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "zotero-local": {
+      "command": "zotero-mcp",
+      "args": [
+        "serve"
+      ],
+      "type": "stdio",
+      "env": {
+        "ZOTERO_LOCAL": "true"
+      }
+    }
+  }
+}

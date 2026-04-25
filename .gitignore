@@ -1,0 +1,32 @@
+# Secrets & Configurations
+.env
+.gemini/settings.json
+
+# Python Virtual Environments & Cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project Data & Logs
+.cache/
+projects/*/.cache/
+projects/*/01_search/*.csv
+projects/*/02_verify/*.csv
+projects/*/03_pdfs/*.pdf
+projects/*/03_pdfs/*.csv
+*.log

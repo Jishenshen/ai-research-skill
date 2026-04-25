@@ -1,0 +1,17 @@
+# Core Dependencies
+requests==2.32.4
+pandas==2.0.3
+tqdm==4.67.3
+python-dotenv==1.0.1
+numpy==1.24.4
+
+# Academic Tools
+pyzotero==1.11.0
+git+https://github.com/54yyyu/zotero-mcp.git@main
+pypdf==4.1.0
+pymupdf4llm==0.0.17  # As recommended in architecture doc
+
+# Development & Infrastructure
+fastmcp==3.2.4
+jsonschema==4.23.0
+docutils==0.22.4
