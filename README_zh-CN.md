@@ -19,8 +19,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/ai-research-workflow.git
-cd ai-research-workflow
+git clone https://github.com/yourusername/ai-research-skill.git
+cd ai-research-skill
 ```
 
 ### 2. 环境配置

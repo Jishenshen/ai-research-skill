@@ -19,8 +19,8 @@ This project comes with a highly optimized set of integrated agent skills locate
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-research-workflow.git
-cd ai-research-workflow
+git clone https://github.com/yourusername/ai-research-skill.git
+cd ai-research-skill
 ```
 
 ### 2. Environment Setup
