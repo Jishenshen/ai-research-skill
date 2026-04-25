@@ -1,9 +1,9 @@
 # Core Dependencies
 requests==2.32.4
-pandas==2.0.3
+pandas>=2.0.3
 tqdm==4.67.3
 python-dotenv==1.0.1
-numpy==1.24.4
+numpy>=1.24.0
 
 # Academic Tools
 pyzotero==1.11.0
