@@ -66,4 +66,4 @@ Edit `projects/my-new-topic/keywords.md` to define your specific search queries,
 4. *"Use deep-reading-skills to [batch scan the collection / deeply analyze Paper Title]"*
 
 ## 🔒 Security Note
-The `.env` and `.gemini/settings.json` files contain sensitive API keys. They are explicitly ignored in the `.gitignore` to prevent accidental commits. **Never commit these files to a public repository.**
+The `.env` and `.gemini/settings.json` files contain sensitive API keys. They are explicitly ignored in the `.gitignore` to prevent accidental commits. **Never commit these files to a public repository.**# ai-research-skill
