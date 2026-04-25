@@ -19,7 +19,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/ai-research-skill.git
+git clone https://github.com/Jishenshen/ai-research-skill.git
 cd ai-research-skill
 ```
 

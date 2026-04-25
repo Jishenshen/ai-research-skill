@@ -19,7 +19,7 @@ This project comes with a highly optimized set of integrated agent skills locate
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-research-skill.git
+git clone https://github.com/Jishenshen/ai-research-skill.git
 cd ai-research-skill
 ```
 
