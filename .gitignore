@@ -23,10 +23,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project Data & Logs
+projects/
 .cache/
-projects/*/.cache/
-projects/*/01_search/*.csv
-projects/*/02_verify/*.csv
-projects/*/03_pdfs/*.pdf
-projects/*/03_pdfs/*.csv
 *.log
